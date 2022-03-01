@@ -7,7 +7,7 @@ gem 'bootsnap',                   '1.7.2', require: false
 gem 'bootstrap-sass',             '3.4.1'
 gem 'bootstrap-will_paginate',    '1.0.0'
 gem 'faker',                      '2.11.0'
-gem 'image_processing',           '1.9.3'
+gem 'image_processing',           '1.12.2'
 gem 'jbuilder',                   '2.10.0'
 gem 'mini_magick',                '4.9.5'
 gem 'puma',                       '5.3.1'
